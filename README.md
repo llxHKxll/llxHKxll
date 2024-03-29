@@ -10,13 +10,13 @@
         
 <h1> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
 
-[<img src="https://github-readme-stats.vercel.app/api?username=llxHKxll&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/llxHKxll) [<img src="https://github-readme-streak-stats.herokuapp.com/?user=llxHKxll&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/llxHKxll)
+[<img src="https://github-readme-stats.vercel.app/api?username=llxHKxll&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=ᴍʏ+ɢɪᴛʜᴜʙ+ᴀɴᴀʟʏᴛɪᴄs!&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/llxHKxll) [<img src="https://github-readme-streak-stats.herokuapp.com/?user=llxHKxll&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/llxHKxll)
 
 [<img src="https://github.com/llxHKxll/llxHKxll/blob/master/resources/hr.gif"/>](https://github.com/llxHKxll)
 
 ## ᴍʏ sᴛᴀᴛs
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=llxHKxll&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=harshlkajalhk&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=llxHKxll&layout=compact&theme=midnight-purple&hide=Css)
 
 <h1> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
