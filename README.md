@@ -14,7 +14,7 @@
 
 [<img src="https://github.com/llxHKxll/llxHKxll/blob/master/resources/hr.gif"/>](https://github.com/llxHKxll)
 
-[![GitHub stars](https://img.shields.io/github/stars/[username]/[repository]?style=flat-square)](https://github.com/[llxHKxll]/[llxhkxll]/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/[llxHKxll]/[llxhkxll]?style=flat-square)](https://github.com/[llxHKxll]/[llxhkxll]/stargazers)
 
 ## ᴍʏ sᴛᴀᴛs
 
