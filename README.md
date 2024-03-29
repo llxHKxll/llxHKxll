@@ -1,4 +1,4 @@
-![Hello!](https://media.giphy.com/media/QssGEmpkyEOhBCbweL/giphy.gif)
+![Hello!](https://media.giphy.com/media/3o6gbbuLW76jkt8vIc/giphy.gif)
 
 <h1 align ="center"><img src="https://readme-typing-svg.herokuapp.com?color=B041FF&width=350&lines=✨🦋+𝙷𝙴𝚈!+𝚃𝙷𝙴𝚁𝙴+𝙸+𝙰𝙼+𝚅𝙸𝙿+𝙷𝙺!🖤+🥀"></b></h1>
 
