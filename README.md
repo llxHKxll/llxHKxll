@@ -18,7 +18,7 @@
 ![ɢɪᴛʜᴜʙ sᴛᴀᴛs](https://github-readme-stats.vercel.app/api?username=llxHKxll&show_icons=true&theme=radical)
 ![ᴛᴏᴘ ʟᴀɴɢᴜᴀɢᴇs](https://github-readme-stats.vercel.app/api/top-langs/?username=llxHKxll&layout=compact&theme=midnight-purple&hide=Css)
 
-### Contributions Streak
+### ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴs sᴛʀᴇᴀᴋ
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[llxHKxll]&theme=dark)
 
