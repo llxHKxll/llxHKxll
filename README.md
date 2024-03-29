@@ -20,7 +20,7 @@
 
 ### ᴀᴄᴛɪᴠɪᴛʏ ɢʀᴀᴘʜ
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=llxHKxll&bg_color=ffffff&color=000000&line=000000&point=00ff00)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?llxHKxll&bg_color=ffffff&color=000000&line=000000&point=00ff00)
 
 <h1> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
 
