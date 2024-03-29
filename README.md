@@ -10,7 +10,7 @@
         
 <h1> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
 
-[<img src="https://github-readme-stats.vercel.app/api?username=llxHKxll&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=𝙼𝚈+𝙶𝙸𝚃𝙷𝚄𝙱+𝙰𝙽𝙰𝙻𝚈𝚃𝙸𝙲𝚂!&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/llxHKxll) [<img src="https://github-readme-streak-stats.herokuapp.com/?user=llxHKxll&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/llxHKxll)
+[<img src="https://github-readme-stats.vercel.app/api?username=llxHKxll&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=𝖬𝗒+𝖦𝗂𝗍𝗁𝗎𝖻+𝖠𝗇𝖺𝗅𝗒𝗍𝗂𝖼𝗌+!&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/llxHKxll) [<img src="https://github-readme-streak-stats.herokuapp.com/?user=llxHKxll&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/llxHKxll)
 
 [<img src="https://github.com/llxHKxll/llxHKxll/blob/master/resources/hr.gif"/>](https://github.com/llxHKxll)
 
