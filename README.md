@@ -30,11 +30,8 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=llxHKxll&layout=compact&theme=midnight-purple&hide=Css)
 
 <p align="center">
-    <b>𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂...🍃🍁</b><br><img align="middle" src="https://profile-counter.glitch.me/llxHKxll/count.svg" />
+    <b>ᴛʜᴀɴᴋs ғᴏʀ ᴠɪsɪᴛɪɴɢ...🍃🍁</b><br><img align="middle" src="https://profile-counter.glitch.me/llxHKxll/count.svg" />
 </p>
-
-![𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂](https://visitor-badge.laobi.icu/badge?page_id=llxHKxll) 
-» 𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂...🍃🍁
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 <!---
