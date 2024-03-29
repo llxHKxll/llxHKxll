@@ -3,7 +3,7 @@
 - 👋 Hey! Itz HK...🥀🍃
 - 📫 My Tg Id @llxHKxll
 
-<h1> <img  style="align-item" :"center" src="https://telegra.ph/file/a49bf6aa23d08b40a35b5.jpg" width="50px" height="60%"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs ⚡️「𝐌𝓞𝓞𝐍」⚡️ </h1>
+<h1> <img  style="align-item" :"center"src="https://telegra.ph/file/a49bf6aa23d08b40a35b5.jpg" width="50px" height="60%"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs ⚡️「𝐌𝓞𝓞𝐍」⚡️ </h1>
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
 -->    <img align="middle" src="https://profile-counter.glitch.me/llxHKxll/count.svg" />
