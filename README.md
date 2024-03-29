@@ -13,6 +13,9 @@
 [<img src="https://github-readme-stats.vercel.app/api?username=llxHKxll&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=𝖬𝗒+𝖦𝗂𝗍𝗁𝗎𝖻+𝖠𝗇𝖺𝗅𝗒𝗍𝗂𝖼𝗌+!&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/llxHKxll) [<img src="https://github-readme-streak-stats.herokuapp.com/?user=llxHKxll&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/llxHKxll)
 
 [<img src="https://github.com/llxHKxll/llxHKxll/blob/master/resources/hr.gif"/>](https://github.com/llxHKxll)
+
+[![GitHub stars](https://img.shields.io/github/stars/[username]/[repository]?style=flat-square)](https://github.com/[llxHKxll]/[llxhkxll]/stargazers)
+
 ## ᴍʏ sᴛᴀᴛs
 
 ![ɢɪᴛʜᴜʙ sᴛᴀᴛs](https://github-readme-stats.vercel.app/api?username=llxHKxll&show_icons=true&theme=radical)
