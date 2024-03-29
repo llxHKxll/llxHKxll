@@ -18,9 +18,9 @@
 ![ɢɪᴛʜᴜʙ sᴛᴀᴛs](https://github-readme-stats.vercel.app/api?username=llxHKxll&show_icons=true&theme=radical)
 ![ᴛᴏᴘ ʟᴀɴɢᴜᴀɢᴇs](https://github-readme-stats.vercel.app/api/top-langs/?username=llxHKxll&layout=compact&theme=midnight-purple&hide=Css)
 
-### ᴀᴄᴛɪᴠɪᴛʏ ɢʀᴀᴘʜ
+### Contributions Streak
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?llxHKxll&bg_color=ffffff&color=000000&line=000000&point=00ff00)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[llxHKxll]&theme=dark)
 
 <h1> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
 
