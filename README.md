@@ -5,7 +5,7 @@
 
 <h1><img  style="align-item" :"center" src="https://telegra.ph/file/a49bf6aa23d08b40a35b5.jpg" width="50px" height="60%"></h1>
 <p align="center">
-    <b>ᴠɪsɪᴛᴏʀs</b><br>
+    <b>ᴠɪsɪᴛᴏʀs...🍃✨</b><br>
 -->    <img align="middle" src="https://profile-counter.glitch.me/llxHKxll/count.svg" />
 </p>
 
