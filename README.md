@@ -19,7 +19,7 @@
 [<img src="https://te.legra.ph/file/3f6810f790713b26fe826.jpg" width="60px">](https://tg://openmessage?user_id=6084527452) [<img src="https://te.legra.ph/file/2a7a17fc66a8f5fe785c3.jpg" width="60px">](https://github.com/llxHKxll)
 
 
-## Connect with Me
+## ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/llxHKxll)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/KaisenWorld)
