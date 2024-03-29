@@ -1,4 +1,4 @@
-<h1 align ="center"><img src="https://readme-typing-svg.herokuapp.com?color=B041FF&width=350&lines=✨🦋+𝐇ᴇʏ!+𝐓ʜᴇʀᴇ+𝐈+𝐀ᴍ+𝐕ɪᴘ+𝐇ᴋ🖤+🥀"></b></h1>
+<h1 align ="center"><img src="https://readme-typing-svg.herokuapp.com?color=B041FF&width=350&lines=✨+🦋𝙷𝙴𝚈!+𝚃𝙷𝙴𝚁𝙴+𝙸+𝙰𝙼+𝚅𝙸𝙿+𝙷𝙺!🖤+🥀"></b></h1>
 
 <h1><img  style="align-item" :"center" src="https://telegra.ph/file/a49bf6aa23d08b40a35b5.jpg" width="50px" height="60%"></h1>
 <p align="center">
