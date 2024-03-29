@@ -18,6 +18,10 @@
 ![ɢɪᴛʜᴜʙ sᴛᴀᴛs](https://github-readme-stats.vercel.app/api?username=llxHKxll&show_icons=true&theme=radical)
 ![ᴛᴏᴘ ʟᴀɴɢᴜᴀɢᴇs](https://github-readme-stats.vercel.app/api/top-langs/?username=llxHKxll&layout=compact&theme=midnight-purple&hide=Css)
 
+### ᴀᴄᴛɪᴠɪᴛʏ ɢʀᴀᴘʜ
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=[llxHKxll]&bg_color=ffffff&color=000000&line=000000&point=00ff00)
+
 <h1> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
 
 [<img src="https://te.legra.ph/file/3f6810f790713b26fe826.jpg" width="60px">](https://tg://openmessage?user_id=6084527452) [<img src="https://te.legra.ph/file/2a7a17fc66a8f5fe785c3.jpg" width="60px">](https://github.com/llxHKxll)
