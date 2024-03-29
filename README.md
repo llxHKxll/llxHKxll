@@ -29,11 +29,6 @@
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/llxHKxll)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/KaisenWorld)
 
-## ᴍʏ sᴛᴀᴛs
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=llxHKxll&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=llxHKxll&layout=compact&theme=midnight-purple&hide=Css)
-
 <p align="center">
     <b>ᴛʜᴀɴᴋs ғᴏʀ ᴠɪsɪᴛɪɴɢ...🍃🍁</b><br><img align="middle" src="https://profile-counter.glitch.me/llxHKxll/count.svg" />
 </p>
