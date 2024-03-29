@@ -16,8 +16,8 @@
 
 ## ᴍʏ sᴛᴀᴛs
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=llxHKxll&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=llxHKxll&layout=compact&theme=midnight-purple&hide=Css)
+![ɢɪᴛʜᴜʙ sᴛᴀᴛs](https://github-readme-stats.vercel.app/api?username=llxHKxll&show_icons=true&theme=radical)
+![ᴛᴏᴘ ʟᴀɴɢᴜᴀɢᴇs](https://github-readme-stats.vercel.app/api/top-langs/?username=llxHKxll&layout=compact&theme=midnight-purple&hide=Css)
 
 <h1> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
 
@@ -26,8 +26,8 @@
 
 ## ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ
 
-[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/llxHKxll)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/KaisenWorld)
+[![𝖦𝗂𝗍𝗁𝗎𝖻](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/llxHKxll)
+[![𝖳𝖾𝗅𝖾𝗀𝗋𝖺𝗆](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/KaisenWorld)
 
 <p align="center">
     <b>ᴛʜᴀɴᴋs ғᴏʀ ᴠɪsɪᴛɪɴɢ...🍃🍁</b><br><img align="middle" src="https://profile-counter.glitch.me/llxHKxll/count.svg" />
