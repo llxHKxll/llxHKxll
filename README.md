@@ -6,7 +6,7 @@
 <h1><img  style="align-item" :"center" src="https://telegra.ph/file/a49bf6aa23d08b40a35b5.jpg" width="50px" height="60%"></h1>
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs...🍃✨</b><br>
-    <img align="middle" src="https://profile-counter.glitch.me/llxHKxll/count.svg" />
+ <img align="middle" src="https://profile-counter.glitch.me/llxHKxll/count.svg" />
 </p>
 
 [<img src="https://telegra.ph/file/d557c20c6054491d2c20a.jpg"/>](https://github.com/Moonshining6)
