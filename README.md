@@ -8,7 +8,7 @@
     <b>ᴠɪsɪᴛᴏʀs...🍃✨</b><br><img align="middle" src="https://profile-counter.glitch.me/llxHKxll/count.svg" />
 </p>
 
-[<img src="[ht]https://telegra.ph/file/a49bf6aa23d08b40a35b5.jpg"/>](https://github.com/llxHKxll)
+[<img src="https://telegra.ph/file/a49bf6aa23d08b40a35b5.jpg"/>](https://github.com/llxHKxll)
 
         
 <h1> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
