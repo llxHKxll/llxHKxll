@@ -33,8 +33,6 @@
 [![𝖦𝗂𝗍𝗁𝗎𝖻](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/llxHKxll)
 [![𝖳𝖾𝗅𝖾𝗀𝗋𝖺𝗆](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/KaisenWorld)
 
-[![GitHub license](https://img.shields.io/github/license/[username]/[repository]?style=flat-square)](https://github.com/[llxhkxll]/[llxhkxll]/blob/master/LICENSE)
-
 <p align="center">
     <b>ᴛʜᴀɴᴋs ғᴏʀ ᴠɪsɪᴛɪɴɢ...🍃🍁</b><br><img align="middle" src="https://profile-counter.glitch.me/llxHKxll/count.svg" />
 </p>
