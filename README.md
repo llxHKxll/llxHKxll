@@ -37,8 +37,6 @@
     <b>ᴛʜᴀɴᴋs ғᴏʀ ᴠɪsɪᴛɪɴɢ...🍃🍁</b><br><img align="middle" src="https://profile-counter.glitch.me/llxHKxll/count.svg" />
 </p>
 
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!---
