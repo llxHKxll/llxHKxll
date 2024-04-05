@@ -25,8 +25,7 @@
 
 <h1> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
 
-[<img src="https://te.legra.ph/file/3f6810f790713b26fe826.jpg" width="60px">](https://tg://openmessage?user_id=6084527452) [<img src="https://te.legra.ph/file/2a7a17fc66a8f5fe785c3.jpg" width="60px">](https://github.com/llxHKxll)
-
+[<img src="https://raw.githubusercontent.com/llxHKxll/llxHKxll/master/resources/telegram_icon.png" width="60px">](https://t.me/llxHKxll) [<img src="https://raw.githubusercontent.com/llxHKxll/llxHKxll/master/resources/github_icon.png" width="60px">](https://github.com/llxHKxll) [<img src="https://github.com/llxHKxll/llxHKxll/blob/master/resources/insta_icon.png" width="60px">](https://instagram.com/llxHKxll)
 
 ## ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ
 
