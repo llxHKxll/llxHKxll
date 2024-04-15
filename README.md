@@ -23,6 +23,11 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[llxHKxll]&theme=dark)
 
+### ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴ ɢʀᴀᴘʜ
+
+<a href="https://github.com/"><img alt="ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴ ɢʀᴀᴘʜ" src="https://ghactivity.mrayush.me/graph?username=llxHKxll&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+
 <h1> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
 
 [<img src="https://te.legra.ph/file/3f6810f790713b26fe826.jpg" width="60px">](https://tg://openmessage?user_id=6084527452) [<img src="https://te.legra.ph/file/2a7a17fc66a8f5fe785c3.jpg" width="60px">](https://github.com/llxHKxll)
